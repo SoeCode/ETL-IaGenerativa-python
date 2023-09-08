@@ -28,6 +28,3 @@ combinando python com IA Generativa aprendi a explorar a capacidade de duas tecn
 compreendi a complexidade de extrair, transformar e atualizar dados, aprendendo e evoluindo a lidar com o desafio da melhor forma possível.
 #### Personalização de Mensagens com IA
 percebi a potência de gerar mensagens automatizadas com base em dados, aprimorando a comunicação com o usuário.
-
-
-
